@@ -1,0 +1,26 @@
+.card{
+    height: fit-content;
+    width : 300px;
+    display: flex;
+    border:0.5cm;
+    border-color: black;
+    border-radius: 20px;
+}
+.card-image{
+    height: 200px;
+    width: 200px;
+}
+.card-row{
+    display: flex;
+    flex-direction: row;
+    
+}
+.card-img-top{
+    width: 200px;
+    height:200px;
+}
+.favourite_icon:hover {
+    cursor: pointer;
+    color: rgb(255, 147, 147);
+    background-color: rgb(255, 0, 0);
+  }

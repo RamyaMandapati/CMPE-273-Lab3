@@ -1,0 +1,41 @@
+{
+  "name": "etsyback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ramya Mandapati",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.7.0",
+    "apollo-server-express": "^3.7.0",
+    "aws": "^0.0.3-2",
+    "aws-sdk": "^2.1118.0",
+    "bcrypt": "^5.0.1",
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.19.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "graphql": "^16.5.0",
+    "graphql-upload": "^13.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "kafka-node": "^5.0.0",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.2.10",
+    "multer": "^1.4.4",
+    "multer-s3": "^2.10.0",
+    "mysql": "^2.18.1",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

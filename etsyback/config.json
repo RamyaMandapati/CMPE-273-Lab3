@@ -1,0 +1,11 @@
+{
+	"DB": {
+		"host": "cluster0-shard-00-02.s2eap.mongodb.net",
+		"username": "admin",
+		"password": "admin",
+		"port": "27017",
+		"database": "Etsy"
+	},
+	"secret": "etsyback",
+	"frontend": "http://localhost:3000"
+}
